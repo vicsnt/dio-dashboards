@@ -1,2 +1,2 @@
 # dio-dashboards
-dashboards completa do xbox, com perguntas de negócios
+dashboards completa com assets e dados ficticios sobre usuários da plataforma de xbox
