@@ -1,2 +1,2 @@
 # dio-dashboards
-dashboard xbox
+dashboards completa do xbox, com perguntas de negócios
